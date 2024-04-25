@@ -19,3 +19,6 @@ Features:
 Machine Learning Models: The program offers three different machine learning models for prediction: Logistic Regression, Support Vector Machine (SVM), and Random Forest. Each model has been trained on a dataset of heart health information and offers different levels of accuracy.
 User Input: Users can input their own medical information, including age, sex, blood pressure, cholesterol levels, and other relevant factors. The program then uses this information to make predictions using the selected machine learning model.
 Model Comparison: Before making a prediction, users can choose which machine learning model to use based on their preference or understanding of the model's strengths and limitations. Each model has been evaluated for its accuracy in predicting heart disease based on the provided dataset.
+
+
+Data Scource:https://www.kaggle.com/datasets/tejpal123/human-heart-disease-dataset
